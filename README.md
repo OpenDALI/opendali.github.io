@@ -1,5 +1,5 @@
-# opendali.github.io
-opendali
+# opendali
+Welcome to OpenDALI
 
 ## [DALI Alliance](https://www.dali-alliance.org/)
 
