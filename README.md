@@ -1,5 +1,6 @@
-# opendali
-Welcome to OpenDALI
+# OpenDALI
+
+elcome to OpenDALI
 
 ## [DALI Alliance](https://www.dali-alliance.org/)
 
